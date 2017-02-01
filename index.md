@@ -29,7 +29,7 @@ The airG Runtime Permissions library provides an easy way to handle handle Marsh
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">To make a name for yourself in the open source community, start by creating an image loading library or permissions helper. <a href="https://twitter.com/hashtag/androidBadvice?src=hash">#androidBadvice</a></p>&mdash; Bad Android Advice (@anddev_badvice) <a href="https://twitter.com/anddev_badvice/status/821743607917015041">January 18, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Contributing
+## <a name="contribute" >Contributing</a>
 Contributions are appreciated and welcome. In order to contribute to any of the above libraries, follow these easy steps:
 
  1. Write a clear and concise description of your change refer to issue tracker ids where available (ideally, you'd file an issue with this information).
